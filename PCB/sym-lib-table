@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name "F3HP")(type "KiCad")(uri "${KIPRJMOD}/F3HP.kicad_sym")(options "")(descr ""))
 )
